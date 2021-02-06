@@ -1,2 +1,2 @@
-# JavaScript-puro
- Projetinho com JavaScript
+# HTML-CSS
+ Projetinho com HTML e CSS
