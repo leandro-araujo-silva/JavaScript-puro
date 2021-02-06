@@ -1,2 +1,2 @@
-# HTML-CSS
- Projetinho com HTML e CSS
+# Javascript
+ Projetinho realizado no curso em vídeo
